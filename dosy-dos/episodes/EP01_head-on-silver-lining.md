@@ -27,48 +27,113 @@
 
 ## THE DUAL PRESENCE CONCEPT
 
-**Both cameras run simultaneously at all times.**
+**Two seats. Two performances. One person.**
 
-This is the visual identity of the show. Here's what it creates:
+This is the visual signature of Dosy Dos. You shoot the episode twice —
+once from each seat — and the edit makes it feel like you walked over.
 
 ```
-When you look INTO A-CAM (iPhone close-up):
-  → A-CAM sees: Your face. Direct eye contact. Intimate.
-  → B-CAM sees: Your full body looking INTO the other camera.
-
-When you look INTO B-CAM (GoPro wide):
-  → B-CAM sees: Your face. Direct eye contact. Wide.
-  → A-CAM sees: Your profile or back of head — you looking away.
+┌─────────────────────┐        ┌─────────────────────┐
+│                     │        │                     │
+│   SEAT 1            │        │   SEAT 2            │
+│   A-CAM (iPhone)    │        │   B-CAM (GoPro)     │
+│   Close-up          │        │   Wide / full        │
+│                     │        │                     │
+│   Santiago tells    │        │   Santiago is the   │
+│   the story         │        │   "other side"      │
+│                     │        │                     │
+└─────────────────────┘        └─────────────────────┘
+         ↑                               ↑
+   You perform here               You perform here
+   first run                      second run
 ```
 
-In the edit, cutting between these two angles creates the feeling of
-**two versions of you** — one the viewer is close to, one they're watching
-from a distance. It's the same person, two perspectives, simultaneously.
+**How the look works:**
+When Santiago in Seat 1 glances over toward Seat 2 — that's the cut point.
+The editor cuts to Santiago already sitting in Seat 2, looking back.
+The viewer feels he physically got up and crossed to the other seat.
+There's no teleport. No split screen. Just a clean cut on the eye line.
 
-**Why this works for EP01 specifically:**
-The entire story is built on duality — two cars, two strangers, two
-perspectives of the same crash. The camera setup mirrors the narrative.
-When you're in the close-up telling the story, the wide shot shows you
-*being observed* telling it. The viewer feels both inside and outside
-the story at the same time.
+**Why it works:**
+You're not watching one person from two angles.
+You're watching one person appear to be in two places —
+present on both sides of the story at the same time.
 
-**In the edit, you have three options per moment:**
-1. **Cut** — jump between A-CAM and B-CAM on story beats
-2. **Split screen** — show both simultaneously (powerful for the reveal)
-3. **J/L cut** — let audio from one angle play over visuals from the other
+---
 
-**Setup for shooting:**
-- Place A-CAM (iPhone on tripod) at eye level, about 3–4 feet away
-- Place B-CAM (GoPro) further back and slightly elevated — captures full body
-- Both cameras angled so that when you look at one, the other catches
-  your eye line naturally going *toward* the first camera
-- The two cameras should NOT be side by side — offset them so each
-  captures a genuinely different angle of the same moment
+### HOW TO SHOOT IT
 
-**The "two of me" moment (use sparingly):**
-At the reveal beat (*"I was the other driver"*) — consider a split screen:
-left half A-CAM (close, face), right half B-CAM (wide, full body).
-Same person. Two frames. Mirrors the two-strangers story beat perfectly.
+**Step 1 — Set up both seats before you shoot anything.**
+The two seats need to face each other at an angle — not directly opposite,
+slightly offset, the way two people would actually sit in a conversation.
+The eye line from Seat 1 should land naturally on Seat 2, and vice versa.
+
+**Step 2 — Lock both cameras. Don't move them.**
+A-CAM (iPhone) stays on Seat 1 the entire shoot.
+B-CAM (GoPro) stays on Seat 2 the entire shoot.
+Neither camera moves between your two performances.
+
+**Step 3 — Shoot Seat 1 first (your primary performance).**
+Tell the full story from Seat 1. When you reach a moment where you
+"look over" — actually look over toward Seat 2. Hold the look for
+2–3 seconds. That's your cut point.
+
+**Step 4 — Move to Seat 2. Shoot the return.**
+Now sit in Seat 2. Pick up from the look — you're already there,
+looking back toward Seat 1. Continue the story from this side.
+The emotional register can shift here: more reflective, more internal,
+the "other perspective" on the same events.
+
+**Step 5 — The editor matches the eye lines.**
+When Seat 1 looks right → cut to Seat 2 already looking left (back at Seat 1).
+The direction of the look has to match or the cut falls apart.
+Shoot the look deliberately. Hold it. Give the editor room to work.
+
+---
+
+### WHY THIS WORKS FOR EP01 SPECIFICALLY
+
+This story has two drivers. Two cars. Two strangers on the same road.
+
+Seat 1 = Santiago's side of the story (your voice, your experience)
+Seat 2 = the other side — Edge, the other car, the other perspective
+
+When you look over from Seat 1 to Seat 2, you're literally looking at
+the other driver. Except it's still you. The crash brought two strangers
+together — the two seats bring two versions of the same teller together.
+
+The silver lining isn't just that she bought a car from you.
+It's that you could see both sides. The two seats show that visually.
+
+---
+
+### EYE LINE DIAGRAM
+
+```
+        A-CAM                           B-CAM
+        (iPhone)                        (GoPro)
+           |                               |
+           ▼                               ▼
+      ┌─────────┐                     ┌─────────┐
+      │  SEAT 1 │ ←—— looks over ——→  │  SEAT 2 │
+      └─────────┘                     └─────────┘
+
+Seat 1 eye line points RIGHT toward Seat 2.
+Seat 2 eye line points LEFT toward Seat 1.
+Cut on the look. The viewer fills in the walk.
+```
+
+---
+
+### EDIT CUT POINTS (where to use the look)
+
+| Moment | From | To | Why |
+|---|---|---|---|
+| *"I remember thinking — that was close."* | Seat 1 | Seat 2 | Shift into reflection |
+| *"A few weeks later, phone rings."* | Seat 2 | Seat 1 | Back to present action |
+| *"...Wasn't that July 17th?"* | Seat 1 (building) | Seat 2 (the realization) | Peak tension |
+| *"I was the other driver."* | Seat 1 | Seat 2 — HOLD | The reveal. Let it sit. |
+| Silver lining close | Seat 2 | Seat 1 (final) | Resolution back to self |
 
 ---
 
