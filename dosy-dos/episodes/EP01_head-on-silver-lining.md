@@ -25,6 +25,53 @@
 
 ---
 
+## THE DUAL PRESENCE CONCEPT
+
+**Both cameras run simultaneously at all times.**
+
+This is the visual identity of the show. Here's what it creates:
+
+```
+When you look INTO A-CAM (iPhone close-up):
+  → A-CAM sees: Your face. Direct eye contact. Intimate.
+  → B-CAM sees: Your full body looking INTO the other camera.
+
+When you look INTO B-CAM (GoPro wide):
+  → B-CAM sees: Your face. Direct eye contact. Wide.
+  → A-CAM sees: Your profile or back of head — you looking away.
+```
+
+In the edit, cutting between these two angles creates the feeling of
+**two versions of you** — one the viewer is close to, one they're watching
+from a distance. It's the same person, two perspectives, simultaneously.
+
+**Why this works for EP01 specifically:**
+The entire story is built on duality — two cars, two strangers, two
+perspectives of the same crash. The camera setup mirrors the narrative.
+When you're in the close-up telling the story, the wide shot shows you
+*being observed* telling it. The viewer feels both inside and outside
+the story at the same time.
+
+**In the edit, you have three options per moment:**
+1. **Cut** — jump between A-CAM and B-CAM on story beats
+2. **Split screen** — show both simultaneously (powerful for the reveal)
+3. **J/L cut** — let audio from one angle play over visuals from the other
+
+**Setup for shooting:**
+- Place A-CAM (iPhone on tripod) at eye level, about 3–4 feet away
+- Place B-CAM (GoPro) further back and slightly elevated — captures full body
+- Both cameras angled so that when you look at one, the other catches
+  your eye line naturally going *toward* the first camera
+- The two cameras should NOT be side by side — offset them so each
+  captures a genuinely different angle of the same moment
+
+**The "two of me" moment (use sparingly):**
+At the reveal beat (*"I was the other driver"*) — consider a split screen:
+left half A-CAM (close, face), right half B-CAM (wide, full body).
+Same person. Two frames. Mirrors the two-strangers story beat perfectly.
+
+---
+
 ## THREE-ACT STRUCTURE
 
 ### ACT I — THE CRASH (0:00 – 0:45)
